@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Reagan App™</string>
+
+    <string name="btnBack">Back</string>
+
+    <string name="firstPeriod">Period 1   8:55 – 9:47</string>
+    <string name="secondPeriod">Period 2   9:52 – 10:45</string>
+    <string name="thirdPeriod">Period 3   10:50 – 11:40</string>
+    <string name="fourthPeriod">Period 4   11:45 – 12:35</string>
+    <string name="fifthPeriod">Period 5   12:40 – 1:30</string>
+    <string name="sixthPeriod">Period 6   1:35 – 2:25</string>
+    <string name="seventhPeriod">Period 7   2:30 – 3:20</string>
+    <string name="eigthPeriod">Period 8   3:25 – 4:15</string>
+    <string name="advisory">Advisory   0:00 – 0:00</string>
+
+
+    <string name="campusFacts1">Ronald Reagan High School</string>
+    <string name="campusFacts2">
+        -Year Established: 1999\n-Rating: Met Standard\n-School Mascot: Rattlers\n-Enrollment: 3517\n-Demographics:</string>
+    <string name="campusFacts3">
+            -Asian: 7.1%\n-White: 45.1%\n-Hispanic: 40.3%\n-African American: 4.1%\n-Native American: 0.2%\n-Pacific Islander: 0.3%\n-Two or More: 3%</string>
+
+
+    <string name="principal">Principal</string>
+    <string name="principalName">Mrs. Brenda Shelton</string>
+    <string name="principalPhoneNumber">210-356-1800</string>
+    <string name="principalEmail">bshelt@neisd.net</string>
+
+    <string name="assistantPrincipals">Administration AP</string>
+    <string name="btnAP">Click Here for more info on\nthe Assistant Principals</string>
+
+
+    <string name="assistantPrincipalOneName">Marcela Arreola</string>
+    <string name="assistantPrincipalOneDepartment">Attendance</string>
+    <string name="assistantPrincipalOneEmail">marreo1@neisd.net</string>
+    <string name="assistantPrincipalOneBio">I am so excited to be starting my second year at Reagan High School and my eighth year in education.
+        I am very passionate about teaching, education and empowering students to become tomorrow’s leaders.
+        I believe in the North East promise to educate the whole child and in ensuring that our students graduate with not only academic knowledge but with citizenship skills and a desire to leave the world better than they found it.
+        I graduated from the University of Texas in San Antonio with a major in Biology. I spent a few years doing vaccine research in a joint venture between UTSA and the DOD.
+        I obtained my Masters in Education from Wayland Baptist University and began my teaching career with United ISD.\n
+        I spent some time in the classroom teaching Chemistry, Biology and Physics in North Side ISD before earning my principal certificate.
+        I was then fortunate enough to come to Reagan High School as an Assistant Principal. I am so proud to be part of this amazing community both as a parent and as an educator!
+        I look forward to working with all of our parents and students as we begin another amazing year here at Reagan High School.</string>
+
+
+    <string name="assistantPrincipalTwoName">Brenda Cerroni</string>
+    <string name="assistantPrincipalTwoDepartment">Curriculum</string>
+    <string name="assistantPrincipalTwoEmail">bcerro@neisd.net</string>
+    <string name="assistantPrincipalTwoBio">Education has been my passion for all of my life. This is my 22nd year in education. I started as a math teacher in SWISD. I spent two years there before joining the North East family. I taught math at Eisenhower MS for 6 years and then accepted a job as a math specialist where I spent 10 years supporting math programs in North East Middle and High Schools.
+I completed my masters in Educational Leadership in 2012 and started as an Assistant Principal at Tejeda MS and am now in my second year as an Assistant Principal at Reagan High School. I have found a wonderful community to call home. I now bleed green, silver, and black! I am blessed to be a part of some of the most talented, compassionate and motivated students and staff on the planet!
+Go Reagan Rattlers!</string>
+
+
+    <string name="assistantPrincipalThreeName">Alejandro Escamilla</string>
+    <string name="assistantPrincipalThreeDepartment">Students MI - RO</string>
+    <string name="assistantPrincipalThreeEmail">aescam1@neisd.net</string>
+    <string name="assistantPrincipalThreeBio">I received my B.A. at Angelo State University and my M.A. from Concordia University.  I have 3 children and I am married for over 13 years.
+I started my teaching at Bradley Middle School in 2005. I spent 5 years at Bradley as a coach and Special Education Teacher.
+In 2010, I joined Tejeda Middle Scool as the Special Educaton Campus Coordinator.
+In 2013, I was promoted to Assistant Principal at Tejeda Middle School.
+At the start of the 2015-2016 school year, I joined the Reagan Rattler family as Assistant Principal.</string>
+
+
+    <string name="assistantPrincipalFourName">Alejandro Escamilla</string>
+    <string name="assistantPrincipalFourDepartment">Students MI - RO</string>
+    <string name="assistantPrincipalFourEmail">aescam1@neisd.net</string>
+    <string name="assistantPrincipalFourBio">I received my B.A. at Angelo State University and my M.A. from Concordia University.  I have 3 children and I am married for over 13 years.
+I started my teaching at Bradley Middle School in 2005. I spent 5 years at Bradley as a coach and Special Education Teacher.
+In 2010, I joined Tejeda Middle Scool as the Special Educaton Campus Coordinator.
+In 2013, I was promoted to Assistant Principal at Tejeda Middle School.
+At the start of the 2015-2016 school year, I joined the Reagan Rattler family as Assistant Principal.</string>
+
+
+    <string name="spacer">------------------------------------------------------------</string>
+
+
+</resources>
